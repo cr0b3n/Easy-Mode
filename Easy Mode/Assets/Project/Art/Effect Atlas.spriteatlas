@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Effect Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 779a61c2f875eb4479004ebfb7648919, type: 3}
+    totalSpriteSurfaceArea: 245760
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a15fb920edbc08843a75c1cd1cfc99f1, type: 3}
+  - {fileID: 21300000, guid: 563d9e52c8a8b5040badc77d07788758, type: 3}
+  - {fileID: 21300000, guid: afe2649226827134793616845d0a38cd, type: 3}
+  - {fileID: 21300000, guid: d445c5b203366a84f9127d757c2e56ba, type: 3}
+  - {fileID: 21300000, guid: b752f103154bfb142b80ebea71d6d794, type: 3}
+  - {fileID: 21300000, guid: 89437bf38fc18db479934c853a02129c, type: 3}
+  - {fileID: 21300000, guid: 781783241eb1e834fbfea6d7f35ea20a, type: 3}
+  - {fileID: 21300000, guid: b0ed270574a8d9a4e9845143d191dead, type: 3}
+  - {fileID: 21300000, guid: 495749653bf8c7b4f9fa80bf32ecd57e, type: 3}
+  - {fileID: 21300000, guid: 43d455e501879fb45bb2128b43000e66, type: 3}
+  - {fileID: 21300000, guid: 45be39c7c35d76d43bce3113ac352448, type: 3}
+  - {fileID: 21300000, guid: b08a1f6aea2ddc7449182bc91802a18a, type: 3}
+  - {fileID: 21300000, guid: 56629dfbe42c41a4abf89a267b10dda9, type: 3}
+  - {fileID: 21300000, guid: 1e80f02e10bfe7b45bbd7d71d0894af4, type: 3}
+  - {fileID: 21300000, guid: a4f5cc9e980803640804808f9e113a6e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - cut3
+  - diamond
+  - star2
+  - circle
+  - star 5
+  - cut
+  - spike
+  - diamond2
+  - star4
+  - star 1
+  - cut2
+  - flower
+  - star3
+  - diamond1
+  - cloud
+  m_Tag: Effect Atlas
+  m_IsVariant: 0

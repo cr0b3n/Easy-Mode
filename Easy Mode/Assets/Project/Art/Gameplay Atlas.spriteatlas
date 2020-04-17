@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Gameplay Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5553c28f31fccb643a13bb180fac70dc, type: 3}
+    totalSpriteSurfaceArea: 3522560
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7966aa12a9fb4124d929d59dcf0267ec, type: 3}
+  - {fileID: 21300000, guid: 145b723263cf3c347a4ac6f1baf19f5f, type: 3}
+  - {fileID: 21300000, guid: 3bbd6932ec5af6845b9970064509e018, type: 3}
+  - {fileID: 21300000, guid: 8834fb23d55cb3f48b40532dc4fd5b8c, type: 3}
+  - {fileID: 21300000, guid: fe843176cd903404183137686d1bfea1, type: 3}
+  - {fileID: 21300000, guid: 3ae01d77c630c754bb2d5fc5f48e5871, type: 3}
+  - {fileID: 21300000, guid: aac2ac19812209b47808e3864f790a9c, type: 3}
+  - {fileID: 21300000, guid: 5da47039cca0a5a48a8775560d3dfe07, type: 3}
+  - {fileID: 21300000, guid: 63f2d22ac31cc9c49aec775cf8e72056, type: 3}
+  - {fileID: 21300000, guid: 84809baafdcd0194c906ce7b9da9e0fe, type: 3}
+  - {fileID: 21300000, guid: 9e48244b26a7b684aa1bcc9af21b215b, type: 3}
+  - {fileID: 21300000, guid: 8e428d6c066cdca4ba1069c81aafccae, type: 3}
+  - {fileID: 21300000, guid: 36399a2d63768f7478c977bb6c9eee4c, type: 3}
+  - {fileID: 21300000, guid: a6751a4d44ff0b1459b1e0140276f0e1, type: 3}
+  - {fileID: 21300000, guid: 2a6c9f0ee1efba54296a04521533ca9d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - upper-left-ear
+  - regular-face
+  - lower-right-ear
+  - upper-arm
+  - lower-left-ear
+  - upper-right-ear
+  - tail
+  - lower-leg
+  - Puri
+  - body
+  - lower-arm
+  - upper-leg
+  - death-face
+  - Set 5 Ground Tile
+  - head
+  m_Tag: Gameplay Atlas
+  m_IsVariant: 0
